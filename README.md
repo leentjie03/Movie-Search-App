@@ -19,8 +19,8 @@ A React-based web application for searching movies using the TMDB API. Features 
 - **API**: [The Movie Database (TMDB)](https://www.themoviedb.org/)
 - **Deployment**: Vercel/Netlify
 
--## 🌐 Live Demo]
-(movie-search-app-93ao.vercel.app/)
+## 🌐 Live Demo]
+- (movie-search-app-93ao.vercel.app/)
 
 ## 🚀 Getting Started
 
