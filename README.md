@@ -1,8 +1,7 @@
-<img width="1902" height="940" alt="image" src="https://github.com/user-attachments/assets/ecb0063c-7d2b-469d-957b-eb41fd06afb9" /># 🎬 Movie Search App
+<img width="1902" height="940" alt="image" src="https://github.com/user-attachments/assets/ecb0063c-7d2b-469d-957b-eb41fd06afb9" /># Movie Search App
 
 A React-based web application for searching movies using the TMDB API. Features real-time search, responsive design, and movie details.
 
-![Movie Search App Screenshot]("C:\Users\ReabetsoeKock\OneDrive - Digital Solution Foundry (Pty) Ltd\Pictures\Screenshots\Screenshot 2025-08-15 153746.png")  
 
 ## 🔥 Features
 
