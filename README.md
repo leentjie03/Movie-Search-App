@@ -1,12 +1,31 @@
-# React + Vite
+<img width="1902" height="940" alt="image" src="https://github.com/user-attachments/assets/ecb0063c-7d2b-469d-957b-eb41fd06afb9" /># 🎬 Movie Search App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based web application for searching movies using the TMDB API. Features real-time search, responsive design, and movie details.
 
-Currently, two official plugins are available:
+![Movie Search App Screenshot]("C:\Users\ReabetsoeKock\OneDrive - Digital Solution Foundry (Pty) Ltd\Pictures\Screenshots\Screenshot 2025-08-15 153746.png")  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔥 Features
 
-## Expanding the ESLint configuration
+- **Real-time search** (updates as you type)
+- **Responsive grid layout** (works on mobile/desktop)
+- **Movie details**: Posters, ratings, and titles
+- **Clean UI** with hover animations
+- **Error handling** for missing posters
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **Frontend**: React (Vite)
+- **Styling**: CSS Modules
+- **API**: [The Movie Database (TMDB)](https://www.themoviedb.org/)
+- **Deployment**: Vercel/Netlify
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js (v16+)
+- TMDB API key ([Get it here](#-how-to-get-a-tmdb-api-key))
+
+### Installation
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your-username/movie-search-app.git
