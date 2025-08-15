@@ -30,4 +30,4 @@ A React-based web application for searching movies using the TMDB API. Features 
 ### Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/movie-search-app.git
+   git clone https://github.com/leentjie03/Movie-Search-App.git
